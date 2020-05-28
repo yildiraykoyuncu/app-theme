@@ -104,3 +104,11 @@ body {
     color: #56a79a;
     font-size: 60px;
 }
+
+
+/*Info*/
+
+#info {
+    background: #333 url(../images/info-bg.jpg) no-repeat;
+    color: #fff;
+}
