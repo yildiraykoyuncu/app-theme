@@ -65,3 +65,22 @@ body {
 #showcase .row {
     height: 600px;
 }
+
+#showcase h1 {
+    font-size: 50px;
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+#showcase p {
+    color: #ccc;
+    margin: 0;
+}
+
+#showcase .showcase-content {
+    background: #333;
+    color: #fff;
+    border-radius: 90px;
+    padding: 40px;
+    opacity: 0.9;
+}
