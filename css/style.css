@@ -9,3 +9,21 @@ body {
 .container {
     margin: auto;
 }
+
+
+/*Common Classes*/
+
+.primary-text {
+    color: #56a79a;
+}
+
+.primary-background {
+    background-color: #56a79a;
+}
+
+
+/*Header*/
+
+#main-header {
+    border-bottom: 1px solid #56a79a;
+}
