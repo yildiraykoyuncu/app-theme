@@ -84,3 +84,23 @@ body {
     padding: 40px;
     opacity: 0.9;
 }
+
+
+/*Features*/
+
+#features h2 {
+    font-size: 35px;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+#features p {
+    color: #888;
+    margin: 0;
+    margin-bottom: 40px;
+}
+
+#features .fa {
+    color: #56a79a;
+    font-size: 60px;
+}
