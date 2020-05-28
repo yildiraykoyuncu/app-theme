@@ -227,7 +227,7 @@ __Final touches and bug fixes__
 
 ### Repo
 
-1. This user story developed on a branch named `10-final-touches`.
+1. This user story developed on a branch named `11-final-touches`.
 2. It was merged to master when the feature was finished.
 
 ----
