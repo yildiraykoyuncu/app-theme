@@ -52,3 +52,16 @@ body {
     padding-bottom: 3px;
     color: #56a79a;
 }
+
+
+/*Showcase*/
+
+#showcase {
+    background: url(../images/showcase.jpg) no-repeat center center;
+    border-bottom: 1px solid #56a79a;
+    margin-bottom: 30px;
+}
+
+#showcase .row {
+    height: 600px;
+}
