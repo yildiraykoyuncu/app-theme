@@ -8,7 +8,7 @@ This website is designed for a company which builds apps for the purpose of reac
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe](./wireframe.png)
+![wireframe](./wireframe.PNG)
 
 ## 0. Set-Up
 
