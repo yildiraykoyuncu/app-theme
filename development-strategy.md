@@ -1,6 +1,6 @@
 # Development Strategy
 
-> `name-of-project`
+> `App-Theme`
 
 This website is designed for a company which builds apps for the purpose of reaching new leads and communicating their services to potential customers.
 
